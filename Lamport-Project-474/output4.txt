@@ -1,0 +1,11 @@
+Verify clock output
+
+
+Processor 0: 	1	2	8	9
+Processor 1: 	1	6	7	0
+Processor 2: 	2	3	4	5
+
+
+Processor 0: 	s1	a	r4	b
+Processor 1: 	s2	r3	s4	NULL
+Processor 2: 	r2	c	d	s3

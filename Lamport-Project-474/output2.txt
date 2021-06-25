@@ -1,0 +1,12 @@
+Lamport clock output
+
+
+Processor0: 	s1	b	r3	e
+Processor1: 	a	r2	s3	NULL
+Processor2: 	r1	c	d	s2
+
+
+
+Processor0: 	1	2	8	9
+Processor1: 	1	6	7	0
+Processor2: 	3	4	5	6
